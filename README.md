@@ -1,7 +1,7 @@
 # SimpleNet
 
 
-![](/SimpleNet/imgs/cover.png)
+![](./SimpleNet-main/imgs/cover.png)
 
 **SimpleNet: 一个简单的图像异常检测与定位网络**
 
